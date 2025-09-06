@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+.venv/
+.env
+data/
+checkpoints/
+predictions/
+*.pt
+*.bin
+.ipynb_checkpoints/
